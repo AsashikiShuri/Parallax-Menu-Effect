@@ -1,4 +1,4 @@
-# #Parallax Menu Effect Project
+# Parallax Menu Effect Project
 Hi, nice to meet you. This is a project I made as a form of practice. This project was inspired by the youtube channel [Hyperplexed][def2].
 You can find this project in Codepen [here][def3]
 You can find the original project by Hyperplexed [here][def]
